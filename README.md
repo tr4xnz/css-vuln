@@ -1,6 +1,10 @@
 
 # GITHUB CSS VULN TEST >_<
 ![image](https://github.com/tr4xnz/css-vuln/assets/171883047/f068a0ae-8df2-4bbf-9fee-ec912725a884)
+The Github CSS Vuln, a vulnerability where README.md macros were exploited to edit the CSS on one's repository's page, and it'll be stored on the server.
+This vulnerability's discovery was very surprising as Github is like a huge platform where major companies and developers share their projects and ideas.
+Luckily the vulnerability was patched.
+![image](https://github.com/tr4xnz/css-vuln/assets/171883047/788805fd-a1b9-4db0-a9ee-5fe30fc1ca69)
 
 ```diff
 Hello i am tr4xnz
